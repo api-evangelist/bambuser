@@ -64,5 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bambuser is a company surfaced via the API Evangelist harvest backlog (source: stockholm-trip) and added to the network as a stub for full-pipeline profiling.
-- https://bambuser.com/
+Bambuser provides a video commerce platform enabling brands and retailers to embed live shopping, shoppable video, and video consultation experiences directly into their websites and apps. The solution combines real‑time video streaming with interactive product overlays, AI‑driven product knowledge, and integration SDKs for iOS, Android, and web, helping merchants increase engagement and conversion through immersive, social shopping experiences.
+
+**Areas:** Video Commerce · Live Shopping · Shoppable Video · E-Commerce · Software-as-a-Service
+
+## Bambuser on APIs.io
+
+Everything profiled for Bambuser is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bambuser/](https://apis.io/providers/bambuser/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Bambuser API](https://apis.io/apis/bambuser/bambuser-api/) — Bambuser provides a video commerce platform with live shopping, shoppable video, and video consultation APIs.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bambuser Domain Security](https://apis.io/security/bambuser/bambuser-domain-security/)
+- [Bambuser Trust Center](https://apis.io/security/bambuser/bambuser-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bambuser Plans Pricing](https://apis.io/plans/bambuser/bambuser-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bambuser.com/)
+- [Documentation](https://bambuser.com/docs/)
+- [Getting started](https://bambuser.com/docs/)
+- [API reference](https://bambuser.com/docs/)
+- [Pricing](https://bambuser.com/pricing)
+- [Support](https://bambuser.com/contact)
+- [Blog](https://bambuser.com/blog)
+- [Security](https://bambuser.com/security)
+- [Compliance](https://bambuser.com/security)
+- [Terms of service](https://bambuser.com/terms-of-service)
+- [Privacy policy](https://bambuser.com/privacy-policy)
+- [GitHub](https://github.com/bambuser)
+
+## API Evangelist rating
+
+**Kin Score 34.1** — thin · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 78.9 |
+
+**Agent readiness 6.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bambuser/](https://apis.io/providers/bambuser/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bambuser: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bambuser/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
